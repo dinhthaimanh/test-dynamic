@@ -1,3 +1,4 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
 const demo =  {
     "userId": 10,
     "id": 94,
